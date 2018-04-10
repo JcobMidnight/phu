@@ -1,4 +1,8 @@
 # ProtectPy3
+
+[Ghost Team] Anda diundang ke obrolan "Ghost Team".
+https://line.me/ti/g2/ZcRsT1P4lnmmgI1juvXpe9PQ71PaeH4_3CHceJGb188yAXAM9hl-RUKTFL3wahnM
+
 [New] Bot Saling Backup Dan Admin Di Undang Jika Ke Kick
 
 Bot Line Versi Protect Group
